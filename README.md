@@ -2,6 +2,9 @@
 
 A Go server that connects Twilio's programmable voice API with ElevenLabs AI agents to create an interactive AI phone system. This server handles both inbound and outbound calls, routing audio between the caller and ElevenLabs' conversational AI.
 
+For more information, check out this [article](https://medium.com/@kczpl/building-ai-powered-phone-calls-with-twilio-and-elevenlabs-in-go-f18c169ce699) based on this implementation.
+
+
 Here's a high-level flow of how these components interact:
 
 ```
